@@ -1,5 +1,5 @@
 package com.array;
-
+// Program for sorting an array elements using QuickSort
 import java.util.Arrays;
 
 public class QuickSort {
